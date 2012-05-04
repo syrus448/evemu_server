@@ -26,11 +26,11 @@
 #ifndef __EVE_VERSION_H
 #define __EVE_VERSION_H
 
-// supported client is Crucible v1.6.5 build 360229
+// supported client is Escalation to Inferno 1.0.2 build 365966
 
-static const uint16 MachoNetVersion = 320;
-static const double EVEVersionNumber = 7.31;
-static const int32 EVEBuildVersion = 360229;
+static const uint16 MachoNetVersion = 323;
+static const double EVEVersionNumber = 7.40;
+static const int32 EVEBuildVersion = 365966;
 static const char *const EVEProjectCodename = "EVE-EVE-TRANQUILITY";
 static const char *const EVEProjectRegion = "ccp";
 static const char *const EVEProjectVersion = "EVE-EVE-TRANQUILITY@ccp";
@@ -40,7 +40,7 @@ static const int32 EVEBirthday = 170472;
 // EVEMU_VERSION
 // The version of source.
 #define EVEMU_SOURCE_LOCATION "http://www.github.com/evemuproject/evemu_server"
-#define EVEMU_VERSION "0.7.11"
+#define EVEMU_VERSION "0.8.0"
 
 
 #endif
